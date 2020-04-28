@@ -2,13 +2,13 @@
 title: Student Philosophy
 description: Page By Donovan Montoya
 published: true
-date: 2020-04-28T01:06:23.542Z
+date: 2020-04-28T01:21:42.957Z
 tags: student philosophy
 ---
 
-# Student Philosophy
+# GIMM: Student’s Perspective on Program Philosophy
 
-#### GIMM: Student’s Perspective on Program Philosophy:
+## By Donovan Montoya
 
 The Boise State University GIMM (Games, Interactive Media, and Mobile technology) major has a dedicated philosophy that revolves around hands on learning. The program aims to enable students to build a functional portfolio that demonstrates their ability to learn and develop new skills. This portfolio is made up of games, art pieces, websites, apps, and more. Unlike most majors, the GIMM major recognizes the job markets need for experience and provides students with artifacts that can be used to demonstrate learning.
 
