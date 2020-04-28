@@ -1,12 +1,12 @@
 ---
 title: Teacher Philosophy
-description: By Joey Rowell
+description: Page By Joey Rowell
 published: true
-date: 2020-04-28T01:11:36.022Z
+date: 2020-04-28T01:12:14.803Z
 tags: teacher philosophy
 ---
 
-# Teacher Philosophy
+# GIMM Teacher Philosophy
 ## By Joey Rowell
 Ellertson:
 The grandest challenge that a university can aspire to is the creation of transformative educational experiences.  Such experiences are by nature a conversion process, where students, faculty, and the institution engage in a conversation that transforms each party irrevocably and collectively calls us to a higher vision of ourselves as individuals and a community.  If done right, it will lead us to see that we are not our research, our scholarship or even our disciplines, and that our purpose is not transactional credentialing but rather transformative growth.  At this juncture in our history, with a culture that is fractured and conflicted with itself, we contend that any higher vision for what we can be must put community at the center of our effort.  We must now strive to rediscover ourselves. We must see our research efforts not as an exercise in the generation of profit or prestige, but rather as an opportunity to show our students, our faculty, and our community that we live for the benefit of each other.
