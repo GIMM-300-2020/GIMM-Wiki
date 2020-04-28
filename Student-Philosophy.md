@@ -2,7 +2,7 @@
 title: Student Philosophy
 description: Page By Donovan Montoya
 published: true
-date: 2020-04-28T01:03:24.272Z
+date: 2020-04-28T01:06:23.542Z
 tags: student philosophy
 ---
 
