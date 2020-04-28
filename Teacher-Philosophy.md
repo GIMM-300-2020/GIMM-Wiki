@@ -1,8 +1,8 @@
 ---
 title: Teacher Philosophy
-description: 
+description: By Joey Rowell
 published: true
-date: 2020-04-28T01:10:08.217Z
+date: 2020-04-28T01:11:30.904Z
 tags: teacher philosophy
 ---
 
