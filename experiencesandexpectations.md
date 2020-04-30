@@ -2,7 +2,7 @@
 title: Student Experiences and Expectations
 description: A brief description of what a new student will go through when first taking GIMM classes.
 published: true
-date: 2020-04-30T23:38:46.900Z
+date: 2020-04-30T23:39:56.418Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ GIMM (Games Interactive Mobile Media), is a program centered around the developm
 
 <div align = "center">
   <br>
-  <image width = "80%" height = "80%" src="https://idahovirtualreality.com/wp-content/uploads/2017/05/GIMM1.png"/>
+  <image width = "70%" height = "70%" src="https://idahovirtualreality.com/wp-content/uploads/2017/05/GIMM1.png"/>
 </div>
 
 For additional help, an [appointment](https://square.site/book/G5BSV847WAG3G/ci-d-boise-id) can be made with an Advisor to review current requirements and go over any questions.
