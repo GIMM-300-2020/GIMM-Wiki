@@ -2,8 +2,8 @@
 title: Student Philosophy
 description: Page By Donovan Montoya
 published: true
-date: 2020-04-28T01:21:42.957Z
-tags: student philosophy
+date: 2020-04-30T22:25:35.635Z
+tags: student philosophy, donovan montoya
 ---
 
 # GIMM: Student’s Perspective on Program Philosophy
