@@ -17,4 +17,4 @@ tags:
 <a href="/en/Student-Artworks-Samples" target="_blank">GIMM Artworks</a>
 
 ## Student Expectations and Experiences
-[Expectations and Experiences Page](/expectationsandexperiences)
+[Expectations and Experiences Page](/experiencesandexpectations)
