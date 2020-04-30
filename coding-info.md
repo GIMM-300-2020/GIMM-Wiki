@@ -27,15 +27,14 @@ Generally, any item that can be individually selected and manipulated. This can 
 
 The term pattern relates to the use of patterns in architecture. A pattern is the formalization of a problem/solution pair, used to make an object-oriented design decision. The purpose of a pattern is to codify existing design knowledge so that developers are not constantly reinventing the wheel. Also, by naming these patterns, it eases communication among developers. The term pattern was first coined by Christopher Alexander et al. in 1977. * [Source: Patterns in Object-Oriented Development]
 
-
-Using encapsulation, the public functions are able to access the Mouse's private variables
-
 **Encapsulation:**
 
 Encapsulation is ensuring that the information stored within a class is kept private and is accessed indirectly through public methods. Figure # shows this with the “Mouse class” which has private variables that can’t be accessed by the cat or cheese objects. However, there are public functions that allow these variables to still be altered by the interaction.
 
 <img src="/encapsulation.png" width="200px"/>
 <br />
+Using encapsulation, the public functions are able to access the Mouse's private variables.
+
 **Abstraction:**
 
 An abstraction is a concept or method that isn’t associated with any particular instance of an object. A fundamental property of abstraction is that a class does not need to know the details of another class, only the interface of the class.
@@ -73,7 +72,7 @@ ChucK - ChucK is a digital audio based programming language. ChucK plays off of 
 
 Arduino - Arduinos are small computers that interact with the physical world in some way. There are many different types of Arduinos and they all are made to perform different tasks. Some Arduinos are made to send out bluetooth signals, some are made for music, and the list goes on. In GIMM, we learn how to code and assemble these little pieces of equipment to complete different tasks. Some of these tasks include turning on lights, creating moving pieces for a board game, and even a usable joystick for our own games.
 
-
+<img src="/arduino.png" width="300px" style="margin-left: 50px"/>
 
 Sources:
 ---
