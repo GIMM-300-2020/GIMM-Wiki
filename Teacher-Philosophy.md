@@ -2,8 +2,8 @@
 title: Teacher Philosophy
 description: Page By Joey Rowell
 published: true
-date: 2020-04-28T01:12:14.803Z
-tags: teacher philosophy
+date: 2020-04-30T22:26:22.464Z
+tags: teacher philosophy, joey rowell
 ---
 
 # GIMM Teacher Philosophy
