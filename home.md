@@ -1,11 +1,11 @@
 ---
-title: GIMM
+title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-04-26T01:33:48.808Z
+date: 2020-04-28T01:33:37.265Z
 tags: 
 ---
 
-# GIMM
-Create an account to be able to add/edit pages and media.
-[Click Here](/graffiti-wall) and leave a note, to make sure things are working for you.
+# Donovan Montoya, Joey Rowell, Cole Rene: GIMM WIKI SITE
+## <---
+Please Use Navigator on the LEFT to find Pages.
