@@ -2,7 +2,7 @@
 title: Student Experiences and Expectations
 description: A brief description of what a new student will go through when first taking GIMM classes.
 published: true
-date: 2020-04-30T23:16:28.282Z
+date: 2020-04-30T23:18:39.474Z
 tags: 
 ---
 
@@ -25,6 +25,8 @@ Some examples of group assignments will be:
 - App for phone or computer use
 - Websites
 - VR and AR
+
+The Course List for [GIMM](https://www.boisestate.edu/gimm/student-information/)
  
 ## How to Succeed
 GIMM requires high levels of time management and ability to work coherently in groups of 3 or more people. In order to succeed, one must have many skill levels including but not limited to:
