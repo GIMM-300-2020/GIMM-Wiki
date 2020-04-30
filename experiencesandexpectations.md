@@ -2,14 +2,14 @@
 title: Student Experiences and Expectations
 description: A brief description of what a new student will go through when first taking GIMM classes.
 published: true
-date: 2020-04-30T22:00:51.443Z
+date: 2020-04-30T23:16:07.399Z
 tags: 
 ---
 
 # Expectations and Path to Success
 GIMM (Games Interactive Mobile Media), is a program centered around the development process for games and applications for all devices. Similar to the industry, each year new techniques and tools are introduced to keep students as up to date as possible. Because of this, students may be afraid of what they are getting into, which is where this page comes in. Here you can prepare for what expectations and tips for how to succeed.
 
-For additional help,  an appointment can be made with an Advisor to review current requirements and go over any questions.
+For additional help, an [appointment](/https://square.site/book/G5BSV847WAG3G/ci-d-boise-id) can be made with an Advisor to review current requirements and go over any questions.
 
 ## Student Expectations
 While GIMM covers many complex content creation tools and topics, the program from the start is built for beginners. This was purposefully done to not exclude anyone from the program due to lack of prior experience. The first courses will introduce basic coding theory, animation, and code structure.
@@ -29,6 +29,7 @@ Some examples of group assignments will be:
 ## How to Succeed
 GIMM requires high levels of time management and ability to work coherently in groups of 3 or more people. In order to succeed, one must have many skill levels including but not limited to:
 - Time Management - Being able to accomplish all of your tasks as well as personal tasks without bringing down your team. Most weeks you will be getting more than 10 hours of homework per class, so being able to juggle personal life, school, and work is necessary to succeed.
+
 - Social Skills - Must be able to work alongside others without miscommunication and be able to communicate with them throughout the projects. Any of the fields you can go into from GIMM require workers to be in groups, so being able to work not only in a group, but communicate with peers when stuck or to help is a huge skill that you need.
 - Knowing your limits - every student coming into GIMM has their own set of skills or lack thereof. No one is expected to know everything, but everyone does have something to offer. Knowing where you stand it crucial to understanding what you need to learn and where you can be most helpful to others.
 
