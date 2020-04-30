@@ -2,7 +2,7 @@
 title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-04-30T22:32:50.681Z
+date: 2020-04-30T22:32:53.410Z
 tags: 
 ---
 
