@@ -2,7 +2,7 @@
 title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-04-30T23:47:50.214Z
+date: 2020-04-30T23:48:27.814Z
 tags: 
 ---
 
@@ -50,7 +50,7 @@ Inheritance is used when you have several classes that all need to have similar 
 Polymorphism is similar to inheritance with the main difference being instead of purely inheriting the values of the parent class, with polymorphism a child will override the functionality of the parent class. This allows for many objects that all have similar variables and functions, but some are able to be changed drastically, such as the Enemy class defined in figure # has a basic Move() function that is overridden for any instance of Enemy_1.
 
 <img src="/enemycode.png" width="275px" height="325" style="margin-left: 50px"/>
-<img src="/enemytype.png" width="275px" height="325"/>
+<img src="/enemytype.png" width="275px" height="325" />
 <br />
 This Enemy_1 is a an Enemy class object and overrides the Move() function of the base enemy.
 
