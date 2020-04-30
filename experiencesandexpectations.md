@@ -2,7 +2,7 @@
 title: Student Experiences and Expectations
 description: A brief description of what a new student will go through when first taking GIMM classes.
 published: true
-date: 2020-04-30T23:36:36.811Z
+date: 2020-04-30T23:37:33.948Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ For additional help, an [appointment](https://square.site/book/G5BSV847WAG3G/ci-
 
 <div align = "center">
   <br>
-  <image width = "500px" height = "500px" src="https://idahovirtualreality.com/wp-content/uploads/2017/05/GIMM1.png"/>
+  <image width = "50%" height = "50%" src="https://idahovirtualreality.com/wp-content/uploads/2017/05/GIMM1.png"/>
 </div>
 
 ## Student Expectations
@@ -26,7 +26,7 @@ As students advance through the program, they are expected to take the skills th
 
 <div align = "center">
   <br>
-  <image src="https://www.boisestatepublicradio.org/sites/idaho/files/styles/x_large/public/201901/img_2017-1__1_.jpg"/>
+  <image width = "50%" height = "50%" src="https://www.boisestatepublicradio.org/sites/idaho/files/styles/x_large/public/201901/img_2017-1__1_.jpg"/>
 </div>
 
 Some examples of group assignments will be:
