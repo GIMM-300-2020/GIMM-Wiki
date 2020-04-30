@@ -31,7 +31,7 @@ The term pattern relates to the use of patterns in architecture. A pattern is th
 
 Encapsulation is ensuring that the information stored within a class is kept private and is accessed indirectly through public methods. Figure # shows this with the “Mouse class” which has private variables that can’t be accessed by the cat or cheese objects. However, there are public functions that allow these variables to still be altered by the interaction.
 
-<img src="/encapsulation.png" width="200px"/>
+<img src="/encapsulation.png" width="200px" style="margin-left: 50px"/>
 <br />
 Using encapsulation, the public functions are able to access the Mouse's private variables.
 
