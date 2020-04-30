@@ -2,7 +2,7 @@
 title: Student Experiences and Expectations
 description: A brief description of what a new student will go through when first taking GIMM classes.
 published: true
-date: 2020-04-30T23:23:52.059Z
+date: 2020-04-30T23:30:11.500Z
 tags: 
 ---
 
@@ -11,7 +11,10 @@ GIMM (Games Interactive Mobile Media), is a program centered around the developm
 
 For additional help, an [appointment](https://square.site/book/G5BSV847WAG3G/ci-d-boise-id) can be made with an Advisor to review current requirements and go over any questions.
 
-![](https://idahovirtualreality.com/wp-content/uploads/2017/05/GIMM1.png)
+<div align = "center">
+  <br>
+  <image src="https://idahovirtualreality.com/wp-content/uploads/2017/05/GIMM1.png"/>>
+</div>
 
 ## Student Expectations
 While GIMM covers many complex content creation tools and topics, the program from the start is built for beginners. This was purposefully done to not exclude anyone from the program due to lack of prior experience. The first courses will introduce basic coding theory, animation, and code structure.
@@ -20,6 +23,11 @@ The program is a little unique in the fact that it doesn’t actively use tests 
 Students will be expected to be able to form groups and work on multiple group projects throughout the course of the semesters. Students will have to learn how to communicate effectively in order to complete projects on time. It is encouraged early on to develop time management skills as late work is not accepted without serious cause.
 
 As students advance through the program, they are expected to take the skills they learn and apply it to every new task they are given. Students will build up a portfolio throughout their career in GIMM. The portfolio is a fundamental aspect of GIMM that is crucial for a student’s success after graduation.
+
+<div align = "center">
+  <br>
+  <image src="https://www.boisestatepublicradio.org/sites/idaho/files/styles/x_large/public/201901/img_2017-1__1_.jpg"/>>
+</div>
 
 Some examples of group assignments will be:
 - Group game
