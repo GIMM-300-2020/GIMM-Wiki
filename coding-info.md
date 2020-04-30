@@ -2,7 +2,7 @@
 title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-04-30T23:48:27.814Z
+date: 2020-04-30T23:50:55.477Z
 tags: 
 ---
 
@@ -10,8 +10,34 @@ tags:
 
 Programming Basics:
 ---
+**Branching:**
+Branching is basically cause and effect. The computer checks for conditions and those conditions determine what next choice is made. Think of it like a school day, you have your regular routine: wake up, put on clothes, eat food, brush your teeth, go to school, come home, do homework, eat dinner, go to bed. But what happens if your routine is changed? What if on Tuesdays you have a doctors appointment, how would that change your day? In coding, Tuesday would be a “branch” that diverts from the normal routine. 
 
-<br />
+**Component:**
+When talking about programming a component is an easily noticeable part of a much bigger program that provides a certain function. A car could be a component because it provides a spot to sit (an input) and it also takes somebody from one point to another (it’s function). A car also needs gas to be able to move and it even has a set speed that it cannot go over (it’s characteristics). A car has an engine, brakes, AC, etc… and each of these have their own separate functions as well. But this engine/other parts requires their own quantity of gas as their “input” then it performs its series of steps and ends with carbon monoxide as it’s “output”.  
+
+**Event handler:**
+This is a procedure that controls the event and then makes decisions based on what should happen if that event occurs. Most of the time it is a software procedure that processes things like movements of the mouse or keystrokes. When you think of an event handler in terms of websites it makes those websites content more dynamic. 
+
+**Loop:**
+When you think of a loop you think about something that continues to repeat, again and again. In coding loops allow something to be repeated until you give directions or instructions for it to stop. This could mean that it will loop a certain number of times or it could mean that it will continue to loop until a condition that you have given is met. Loops are used to make programs even more productive and/or effective. 
+
+**Message passing:**
+Message passing means to send a message to a process (a group of instructions that are being processed by a computer's processor). This message being passed can be a: function, object, parallel process, subroutine, or a thread and it can be used to call another process either directly or indirectly. It is a type of communication that is used in object-oriented and parallel programming. 
+
+**Method:**
+Methods only really appear in object-oriented programming languages because in other programming languages it is called a function or procedure. The only big difference between a function/procedure and a method is that a method is ALWAYS correlated with a class. 
+Object methods are only able to acquire data that is known by that certain object. By this process it preserves the integrity of data between sets of objects in a program. Methods can also be used again in many other objects. Think about Methods in terms of a “video snippet object” that handles functions that are related to clips of this movie snippet, this object would have methods like: play, pause, and stop. 
+
+**Overloading:**
+Overloading is a feature that allows a word or symbol to have a number of different meanings, but it depends on how it is used. It is meant to help avoid redundant code. By overloading it allows for more clarity, gets rid of complexity, and even strengthens the runtime performance. 
+This term of “overloading” is used most when considering operators and how they can act differently based on the class or data type of the operands. An example can be the equation 
+“a + b” it can mean different things but this all depends on what the values of “a” and “b” are. Are they just simple numbers or are they complex structures of data?
+Overloading can only be used in certain programming languages because not all support it. Most object-oriented languages like Java and C++ use overloading but it is only one “form”. 
+
+**Sequence:**
+Sequence simply means having something in a logical order. When you apply this definition to programming it means that a computer reads through a program, line by line, reading it in the order that you have put it in. If you don’t give it specific instructions to stop reading at a certain point and read somewhere else it will continue to read, line by line. The computer is sequencing by having certain steps that are carried out in order. 
+
 Object Oriented Programming:
 ---
 
