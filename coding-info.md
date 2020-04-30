@@ -2,14 +2,16 @@
 title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-05-02T18:43:58.590Z
+date: 2020-04-30T23:47:41.685Z
 tags: 
 ---
 
-# GIMM WIKI SITE
-## Teacher Philosophy
-<a href="/en/Teacher-Philosophy" target="_blank">Teacher Philosophy</a>
+# Useful Coding Information
 
+Programming Basics:
+---
+
+<br />
 Object Oriented Programming:
 ---
 
