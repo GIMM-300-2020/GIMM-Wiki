@@ -1,11 +1,16 @@
 ---
-title: GIMM
+title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-04-26T01:33:48.808Z
+date: 2020-04-30T22:38:45.197Z
 tags: 
 ---
 
-# GIMM
-Create an account to be able to add/edit pages and media.
-[Click Here](/graffiti-wall) and leave a note, to make sure things are working for you.
+# GIMM WIKI SITE
+###### Pages:
+<a href="/en/Teacher-Philosophy" target="_blank">Teacher Philosophy</a>
+<a href="/en/Student-Philosophy" target="_blank">Student Philosophy</a>
+<a href="/en/Student-Artworks-Samples" target="_blank">GIMM Artworks</a>
+
+
+~Pages by Donovan Montoya, Joey Rowell, Cole Rene~
