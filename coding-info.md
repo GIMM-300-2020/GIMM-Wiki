@@ -2,7 +2,7 @@
 title: GIMM Wiki Home Page
 description: Games Interactive Media and Mobile
 published: true
-date: 2020-04-30T23:47:41.685Z
+date: 2020-04-30T23:47:50.214Z
 tags: 
 ---
 
@@ -58,8 +58,7 @@ This Enemy_1 is a an Enemy class object and overrides the Move() function of the
 
 One of the principal advantages of object-oriented programming techniques over procedural programming techniques is that they enable programmers to create modules that do not need to be changed when a new type of object is added. A programmer can simply create a new object that inherits many of its features from existing objects. This makes object-oriented programs easier to modify.
 
-
-
+<br />
 Other Types of code learned through the GIMM program:
 ---
 
