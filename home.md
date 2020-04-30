@@ -7,10 +7,14 @@ tags:
 ---
 
 # GIMM WIKI SITE
-###### Pages:
+## Teacher Philosophy
 <a href="/en/Teacher-Philosophy" target="_blank">Teacher Philosophy</a>
+
+## Student Philosophy
 <a href="/en/Student-Philosophy" target="_blank">Student Philosophy</a>
+
+## Student Artworks
 <a href="/en/Student-Artworks-Samples" target="_blank">GIMM Artworks</a>
 
-
-~Pages by Donovan Montoya, Joey Rowell, Cole Rene~
+## Student Expectations and Experiences
+[Expectations and Experiences Page](/expectationsandexperiences)
