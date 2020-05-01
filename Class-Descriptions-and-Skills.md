@@ -2,7 +2,7 @@
 title: Class Descriptions and Skills
 description: 
 published: true
-date: 2020-05-01T00:40:57.011Z
+date: 2020-05-01T00:42:40.965Z
 tags: 
 ---
 
@@ -43,7 +43,7 @@ In this course, students learn the principles of usability in Web, Mobile, and m
 This course focuses on new trends and the possibilities within mobile and game development technologies. Kinect cameras, Wii Balance Boards, smart TVS and more are just some of the devices that students are exposed to within this course. Other topics that students will experience are augmented reality, advanced location-based services, and near field communications. Students will have the opportunity to create custom devices with Arduino circuit boards, Zigbee wireless networks and other types of sensors. Students will learn how to create multiple devices to meet user needs.
 #### GIMM 440 Digital Portfolio
 Students learn how to develop, refine, and present a professional portfolio that is based on their work. This course prepares students for the job market.
-GIMM 480 Senior Capstone One / GIMM 490 Senior Capstone Two:
+#### GIMM 480 Senior Capstone One / GIMM 490 Senior Capstone Two
 In this two-part course, senior students will work with clients on advanced projects to support the research on campus and other non-profit efforts within the community. This course focuses on project management and team building skills, to prepare them for the industry.
 ## Course Sequence
 ## Important Skills
