@@ -2,7 +2,7 @@
 title: Coding Information
 description: Page by Bridger Parker, Josh Goodfellow, and Austin Maze
 published: true
-date: 2020-05-01T02:32:04.168Z
+date: 2020-05-01T02:35:37.749Z
 tags: 
 ---
 
@@ -58,7 +58,7 @@ Most of the code-related projects done in GIMM are created using the Object Orie
 > The term pattern relates to the use of patterns in architecture. A pattern is the formalization of a problem/solution pair, used to make an object-oriented design decision. The purpose of a pattern is to codify existing design knowledge so that developers are not constantly reinventing the wheel. Also, by naming these patterns, it eases communication among developers. The term pattern was first coined by Christopher Alexander et al. in 1977. * [Source: Patterns in Object-Oriented Development]
 
 **Encapsulation:**
->Encapsulation is ensuring that the information stored within a class is kept private and is accessed indirectly through public methods. The figure below shows this with the “Mouse class” which has private variables that can’t be accessed by the cat or cheese objects. However, there are public functions that allow these variables to still be altered by the interaction.
+>Encapsulation is ensuring that the information stored within a class is kept private. This means that any information that should be independent to the object can't be seen or manipulated by other objects. However, these private variables can still be accessed indirectly through public methods. The figure below shows this with the “Mouse class” which has private variables that can’t be accessed by the cat or cheese objects but can still be altered by interactions with these objects due to the public functions.
 
 <img src="/images/encapsulation.png" width="300px" style="margin-left: 50px" alt="Using encapsulation, the public functions are able to access the Mouse's private variables." />
 <br />
