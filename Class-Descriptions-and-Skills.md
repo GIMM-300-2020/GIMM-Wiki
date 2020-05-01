@@ -2,7 +2,7 @@
 title: Class Descriptions and Skills
 description: 
 published: true
-date: 2020-05-01T00:46:28.784Z
+date: 2020-05-01T07:46:42.605Z
 tags: 
 ---
 
@@ -46,4 +46,30 @@ Students learn how to develop, refine, and present a professional portfolio that
 #### GIMM 480 Senior Capstone One / GIMM 490 Senior Capstone Two
 In this two-part course, senior students will work with clients on advanced projects to support the research on campus and other non-profit efforts within the community. This course focuses on project management and team building skills, to prepare them for the industry.
 ## Course Sequence
+### Year 1
+- GIMM 100 Digital Tools **(Fall)**
+- GIMM 110 Interactive Programming **(Fall)**
+- GIMM 200 Visual Storytelling **(Spring)** prereq: GIMM 100 & 110
+- GIMM 250 Interactive Storytelling **(Spring)** prereq: GIMM 100 & 110
+### Year 2
+- GIMM 260 Mobile Web Services I **(Fall)** prereq: GIMM 250
+- GIMM 270 Interactive Audio & Video **(Fall)** prereq: GIMM 250
+- GIMM 280 Interactive Physical Computing **(Fall)** prereq: GIMM 250
+- GIMM 285 Mobile Web Services II **(Fall)** prereq: GIMM 250
+- GIMM 290 Game Design Theory **(Spring)** prereq: ENGL 102, GIMM 100 & 110
+- GIMM 300 Mobile Web Development **(Spring)** prereq: GIMM 280
+### Year 3
+- GIMM 330 3D Animation + Modeling **(Fall)** prereq: GIMM 200 & 250
+- GIMM 340 Mobile Web Development + Internet of Things **(Fall)** prereq: GIMM 250
+- GIMM 350 Game Development **(Fall)** pre-req: GIMM 250, pre/co-req: GIMM 290
+- GIMM 310 Mobile Application Development for Media **(Spring)** prereq: GIMM 280
+- GIMM 360 Game & Virtual Reality Audio **(Spring)** prereq: GIMM 270
+- GIMM 370 Advanced 3D Animation **(Spring)** prereq: GIMM 200 & 250
+- GIMM 375 Advanced Game Development **(Fall)** prereq: GIMM 270
+### Year 4
+- GIMM 400 Advanced Topics: Multiplayer Game Dev. **(Fall)** prereq: GIMM 350
+- GIMM 480 Senior Capstone One **(Fall)** prereq: GIMM 350
+- GIMM 440 Digital Portfolio **(Spring)** prereq: GIMM 350, 370
+- GIMM 490 Senior Capstone Two **(Spring)** prereq: GIMM 480
 ## Important Skills
+In these courses, students can expect to learn numerous important skills that will help them succeed in various industries. Students will learn numerous coding languages, such as C#, Javascript, HTML/CSS, and XML, while also learning various programs in Adobe’s Creative Cloud, such as Photoshop, Animate, Illustrator, Premier, and many others. In upper division courses, students will be introduced to 3D modeling programs such as Maya and Blender, where students will learn how to sculpt, rig, texture, and animate original 3D models.  Students will also be taught Unity, where they will be able create virtual environments while using the models, artistic, and audio related elements  in the other programs they have learned to create an original game, and an app while working with clients with a group. While working in GIMM, students can expect to spend a lot of time coordinating with groups which is important to learn how to do effectively in the industries students can expect to enter. At the end of the program, students will create a digital portfolio showcasing the artifacts that they have created which will give potential employers an idea of the experience that the students have acquired.
