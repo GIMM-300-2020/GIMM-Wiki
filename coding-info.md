@@ -2,7 +2,7 @@
 title: Coding Information
 description: Page by Bridger Parker, Josh Goodfellow, and Austin Maze
 published: true
-date: 2020-05-01T00:19:59.923Z
+date: 2020-05-01T02:32:04.168Z
 tags: 
 ---
 
@@ -11,6 +11,9 @@ tags:
 
 Programming Basics:
 ---
+
+<!-- Intro Paragraph here, pictures are just html embedded if you add any. you have to click the img folder to the left and upload them before they're used though -->
+
 **Branching:**
 > Branching is basically cause and effect. The computer checks for conditions and those conditions determine what next choice is made. Think of it like a school day, you have your regular routine: wake up, put on clothes, eat food, brush your teeth, go to school, come home, do homework, eat dinner, go to bed. But what happens if your routine is changed? What if on Tuesdays you have a doctors appointment, how would that change your day? In coding, Tuesday would be a “branch” that diverts from the normal routine. 
 
