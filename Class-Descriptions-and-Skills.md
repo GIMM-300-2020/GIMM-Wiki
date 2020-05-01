@@ -2,7 +2,7 @@
 title: Class Descriptions and Skills
 description: 
 published: true
-date: 2020-05-01T07:46:42.605Z
+date: 2020-05-01T07:47:01.787Z
 tags: 
 ---
 
