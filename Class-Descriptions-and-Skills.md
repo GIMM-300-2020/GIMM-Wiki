@@ -2,13 +2,13 @@
 title: Class Descriptions and Skills
 description: 
 published: true
-date: 2020-05-01T00:42:40.965Z
+date: 2020-05-01T00:46:28.784Z
 tags: 
 ---
 
 # Class Descriptions and Skills
 ## GIMM Courses
-**Games, Interactive Media, and Mobile (GIMM)** features numerous upper division and lower division courses that teach students the necessary skills and applications to succeed in industries such as Mobile app development,Web development, and Video game development. The major outlines a course sequence and required classes list, detailing the order in which it is recommended that students undertake their courses, and what classes are required for a student to graduate. Students will acquire the necessary skills to create a digital portfolio which will showcase the various artifacts they have created.
+**Games, Interactive Media, and Mobile (GIMM)** features numerous upper division and lower division courses that teach students the necessary skills and applications to succeed in industries such as Mobile app development, Web development, and Video game development. The major outlines a course sequence and required classes list, detailing the order in which it is recommended that students undertake their courses, and what classes are required for a student to graduate. Students will acquire the necessary skills to create a digital portfolio which will showcase the various artifacts they have created which will help them in the job market.
 ## Lower Division Courses 
 In the lower division courses of the GIMM program, students learn foundational skills of development seen often in Mobile app development, Web development, and Video game development industry. The program also covers multiple departments ranging from programming, digital art, and audio design. 
 #### GIMM 100 Digital Tools for Interactivity 
