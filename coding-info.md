@@ -2,7 +2,7 @@
 title: Coding Information
 description: Page by Bridger Parker, Josh Goodfellow, and Austin Maze
 published: true
-date: 2020-05-01T02:35:37.749Z
+date: 2020-05-02T05:32:47.555Z
 tags: 
 ---
 
@@ -41,6 +41,70 @@ Overloading can only be used in certain programming languages because not all su
 
 **Sequence:**
 >Sequence simply means having something in a logical order. When you apply this definition to programming it means that a computer reads through a program, line by line, reading it in the order that you have put it in. If you don’t give it specific instructions to stop reading at a certain point and read somewhere else it will continue to read, line by line. The computer is sequencing by having certain steps that are carried out in order. 
+
+
+---
+>The Following lines of code go over some of the basics discussed in the descriptions above. Pay attention to how the event is handled. 
+
+            using System;
+
+            namespace ConsoleApplication1
+            {
+                class Program
+                {
+                    static void Main(string[] args)
+                    {
+                        Counter c = new Counter(new Random().Next(10));
+                        c.GoalAchivied += c_GoalAchivied;
+
+                        Console.WriteLine("press 'a' key to increase total");
+                        while (Console.ReadKey(true).KeyChar == 'a')
+                        {
+                            Console.WriteLine("adding one");
+                            c.Add(1);
+                        }
+                    }
+
+                    static void c_GoalAchivied(object sender, EventArgs e)
+                    {
+                        Console.WriteLine("The Goal Has been achivied.");
+                        Environment.Exit(0);
+                    }
+                }
+
+                class Counter
+                {
+                    private int goal;
+                    private int total;
+
+                    public Counter(int passedGoal)
+                    {
+                        goal = passedGoal;
+                    }
+
+                    public void Add(int x)
+                    {
+                        total += x;
+                        if (total >= goal)
+                        {
+                            OnGoalAchivied(EventArgs.Empty);
+                        }
+                    }
+
+                    protected virtual void OnGoalAchivied(EventArgs e)
+                    {
+                        EventHandler handler = GoalAchivied;
+                        if (handler != null)
+                        {
+                            handler(this, e);
+                        }
+                    }
+                    public event EventHandler GoalAchivied;
+                }
+            }
+
+---
+
 
 <br />
 Object Oriented Programming:
