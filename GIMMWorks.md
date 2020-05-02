@@ -2,12 +2,12 @@
 title: Student Dev Team
 description: 
 published: true
-date: 2020-05-02T17:51:52.792Z
+date: 2020-05-02T21:05:47.368Z
 tags: 
 ---
 
 # GIMM Works
-GIMM Works is a student development team at Boise State University. They work with clients to create projects that solve real-world problems and benefit the community. The team has made projects that address eating disorders, help improve literacy of deaf students, and aid those with spectrum disorders. Future projects will focus on addressing dementia and alzeihemers. Below are just a few examples of some of the extraordinary projects they have worked on.
+GIMM Works is a student development team at Boise State University. They work with clients to create projects that solve real-world problems and benefit the community. The team has made projects that address eating disorders, help improve the literacy of deaf students, and aid those with spectrum disorders. Future projects will focus on addressing dementia and alzeihemers. Below are just a few examples of some of the extraordinary projects they have worked on.
 
 ## Projects  
 
