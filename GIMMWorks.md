@@ -2,7 +2,7 @@
 title: Student Dev Team
 description: 
 published: true
-date: 2020-05-02T21:05:47.368Z
+date: 2020-05-02T21:09:33.518Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ A unique project GIMM is also currently involved in will help children with sens
 One further project at Boise State’s GIMM major is Bronco BEAM, an app created by the GIMM Works Dev Team to curtail food waste as well as solve campus hunger. Food insecurity, as a top crisis at the university, affects 40% of BSU students. The Bronco BEAM app directs students to catered campus events as they end, so that they may take leftover servings for themselves.  
 
 ---
-![catheter.jpg](/assets/catheter.jpg){.align-center}  
+![catheter.jpg](/assets/catheter.jpg){.align-center} 
 
 ### Catheter Training Simulation
 Another one of the many areas GIMM is actively involved in is the medical field. GIMM is currently aiming to innovate the current proper training of catheter insertion, which is a current rising problem. Rather than reusing or spending money to buy expensive mannequins, GIMM is looking to create a new cutting edge virtual reality catheter program. A program that will help students develop muscle memory during the proper procedure.  
